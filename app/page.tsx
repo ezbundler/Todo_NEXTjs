@@ -99,3 +99,9 @@ export default function Home() {
     </div>
   );
 }
+
+
+
+// IXysgQVOllLPZsKd
+
+// mongodb+srv://developerakash1236:<db_password>@cluster0.mjdyv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
